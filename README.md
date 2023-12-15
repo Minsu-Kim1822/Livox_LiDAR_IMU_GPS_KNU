@@ -1,4 +1,4 @@
-# Livox_imu_gpu_KNU
+# Livox_LiDAR_IMU_GPS_KNU
 ROSBAG data for SLAM evaluation
 
 This repository provides 
